@@ -1,0 +1,14 @@
+input, button {
+  display: block;
+  margin: 8px 0;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+td, th {
+  padding: 8px;
+}
